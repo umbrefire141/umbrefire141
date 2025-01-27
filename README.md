@@ -9,7 +9,7 @@ I've been learning frontend for 3 years. Before learning react, I was HTML coder
 * 🌍  I'm based in Novosibirsk
 * ✉️  You can contact me at [matveyaxentev75@gmail.com](mailto:matveyaxentev75@gmail.com)
 * 🧠  I'm learning React, JS
-* ⚡  I play video games
+* ⚡  I play video games, learn japanese, watch anime and do some stuff
 
 ### Skills
 
